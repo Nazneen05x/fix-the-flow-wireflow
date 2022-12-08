@@ -6,7 +6,7 @@
 ## Gebruiker
 <!-- Het is duidelijk wie de gebruiker is -->
 
-## User Story
+## User Story 📖
 <!-- Er is een User Story geschreven van de interactie -->
 > Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen
 
