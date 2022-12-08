@@ -5,7 +5,7 @@
 
 ## Gebruiker 👨‍👩‍👧‍👦
 <!-- Het is duidelijk wie de gebruiker is -->
-
+De gebruikers zijn ouders, met kinderen (baby) van 4 maanden en/of 1 jaar oud.
 ## User Story 📖
 <!-- Er is een User Story geschreven van de interactie -->
 > Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen
