@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Vini Mini 🥜 - afvinklijst ✅ (logboek🔏) 
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker
@@ -8,6 +8,7 @@
 
 ## User Story
 <!-- Er is een User Story geschreven van de interactie -->
+> Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen
 
 ## Wireflow
 <!-- Toon de wireflow -->
