@@ -3,7 +3,7 @@
 # Vini Mini 🥜 - afvinklijst ✅ (logboek🔏) 
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
-## Gebruiker
+## Gebruiker 👨‍👩‍👧‍👦
 <!-- Het is duidelijk wie de gebruiker is -->
 
 ## User Story 📖
