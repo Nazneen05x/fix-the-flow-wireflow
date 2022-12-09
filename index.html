@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
+  <title>Persoonlijk platform</title>
+</head>
+
+<body>
+<nav>
+<!-- HET MENU!!! -->
+<ul>
+  <li><a href="#"><img src="img/logo.png" alt="Logo-vini-mini" class="viniminilogo"></a></li>
+  <li><ion-icon class="icon" name="home-outline"></ion-icon><a href="#">Home</a><ion-icon class="arrow" name="chevron-down-outline"></ion-icon></li>
+  <li><ion-icon class="icon" name="calendar-outline"></ion-icon><a href="test.html">Agenda</a><ion-icon class="arrow" name="chevron-down-outline"></ion-icon></li>
+  <li><ion-icon class="icon" name="person-circle-outline"></ion-icon><a href="#">Account aanpassen</a><ion-icon class="arrow" name="chevron-down-outline"></ion-icon></li>
+  <li><ion-icon class="icon" name="person-outline"></ion-icon><a href="#">Sam</a></li>
+  <li><ion-icon class="icon" name="log-out-outline"></ion-icon><a href="#">Uitloggen</a></li>
+</ul>
+  <img src="img/patroon.png" alt="patroon" class="img-patroon">  
+</nav>
+
+<main>
+
+<h1 id="klik">Klik op agenda in het menu. Skip de afvinklijst hieronder. </h1>
+<!-- TO DO LIST -->
+<div class="wrapper">
+  <h1>Allergeen afvinklijst</h1>
+<div class="inputfield">
+  <input type="text" id="inputField" placeholder=" Voeg je nieuwe Allergeen toe">
+  <button id="inputFieldButton"><i class="fas fa-plus"><ion-icon name="add-outline"></ion-icon></i></button>
+</div>
+<ul class="Allergeen-to-do-lijst" id="TestList">
+  <li id="lijst">Pinda zakje innemen om 13:00<span><i class="fas fa-trash"><ion-icon name="trash-outline"></ion-icon></i></span></li>
+  <li id="lijst">Ei zakje innemen om 12:00<span><i class="fas fa-trash"><ion-icon name="trash-outline"></ion-icon></i></span></li>
+  <li id="lijst">Pinda zakje innemen om 13:00<span><i class="fas fa-trash"><ion-icon name="trash-outline"></ion-icon></i></span></li>
+  <li id="lijst">Ei zakje innemen om 13:00<span><i class="fas fa-trash"><ion-icon name="trash-outline"></ion-icon></i></span></li>
+</ul>
+<div class="footer">
+  <span>Je hebt 4 openstaande taken</span>
+  <button>Wis alles</button>
+</div>
+</div>
+</main>
+
+<!-- ICON INSTALLATION -->
+<script
+  type="module"
+  src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js">
+</script>
+<script
+  nomodule
+  src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+></script>
+<!-- ICON INSTALLATION -->
+
+</body>
+</html>
