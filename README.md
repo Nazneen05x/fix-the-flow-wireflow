@@ -8,6 +8,7 @@
 De gebruikers zijn ouders, met kinderen (baby) van 4 maanden en/of 1 jaar oud.
 ## User Story 📖
 <!-- Er is een User Story geschreven van de interactie -->
+De afvinklijst is één  onderdeel van het logboek
 > Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen
 
 ## ✨ Wireflow ✨
