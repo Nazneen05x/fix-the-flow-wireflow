@@ -14,6 +14,11 @@ De afvinklijst is één  onderdeel van het logboek
 ## ✨ Wireflow ✨
 <!-- Toon de wireflow -->
 
+<h3>Eerste schets (wireflow)</h3>
+
+
+<h3>Tweede wireflow (wireflow na feedback)</h3>
+
  
 
 ## Licentie
