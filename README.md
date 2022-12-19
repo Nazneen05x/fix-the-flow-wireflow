@@ -14,12 +14,18 @@ De afvinklijst is één  onderdeel van het logboek
 ## ✨ Wireflow ✨
 <!-- Toon de wireflow -->
 
-<h3>Eerste schets (wireflow)</h3>
+<h3>✨Eerste schets (wireflow)✨</h3>
+
+![image](https://user-images.githubusercontent.com/112861261/208398866-3d585a4a-ec5b-4ff1-bfd5-f6f523031d89.png)
 
 
-<h3>Tweede wireflow (wireflow na feedback)</h3>
+<h3>✨Tweede wireflow (wireflow na feedback)✨</h3>
 
- 
+![image](https://user-images.githubusercontent.com/112861261/208398956-77f10e61-c213-426a-bea1-45ba4b2cdf99.png)
+![image](https://user-images.githubusercontent.com/112861261/208398994-528adbb0-a1d0-4b33-97d7-a9af7b0b19db.png)
+![image](https://user-images.githubusercontent.com/112861261/208399126-840ffcee-4506-4fec-a5f9-2bda1e8d6286.png)
+
+
 
 ## Licentie
 
